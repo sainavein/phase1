@@ -1,0 +1,42 @@
+.main{
+  margin:2%;
+  border:1px solid black;
+  display:flex;
+  flex-direction:row;
+}
+.left
+{
+  text-align: center;
+  justify-content: center;
+  margin:2%;
+  border:1px solid blue;
+  padding:1%;
+  width:50%;
+}
+.left img{
+  justify-content: center;
+  width:50%;
+
+}
+.right img{
+  justify-content: center;
+  width:50%;
+
+}
+.right{
+  text-align: center;
+  justify-content: center;
+  margin:2%;
+  border:1px solid blue;
+  padding:1%;
+  width:50%;
+  margin-left: auto;
+}
+.table1{
+  overflow-x: auto;
+}
+button
+{
+  text-decoration:none;
+  shape-outside: padding-box;
+}
